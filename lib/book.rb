@@ -35,6 +35,6 @@ def genre
 end
 
 def turn_page
-
+end
 # binding.pry
 end
