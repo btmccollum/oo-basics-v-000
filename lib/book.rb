@@ -6,10 +6,6 @@ def initialize(title)
   @title = title
 end
 
-def title=(title)
-  @title = title
-end
-
 def title
   @title
 end
@@ -34,9 +30,11 @@ def genre=(genre)
   @genre = genre
 end
 
-def genre 
+def genre
   @genre
 end
+
+def turn_page
 
 # binding.pry
 end
