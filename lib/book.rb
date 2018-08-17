@@ -1,3 +1,5 @@
+require 'pry'
+
 class Book
 
 def initialize(title)
@@ -12,4 +14,5 @@ def title
   @title
 end
 
+binding.pry
 end
