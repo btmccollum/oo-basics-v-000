@@ -14,5 +14,5 @@ def title
   @title
 end
 
-binding.pry
+# binding.pry
 end
